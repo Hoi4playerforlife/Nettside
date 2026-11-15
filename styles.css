@@ -195,8 +195,10 @@ figcaption {
         opacity: 1;
         transform: translateY(0);
     }
-}
 
+    
+
+}
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #1c1c1c;
